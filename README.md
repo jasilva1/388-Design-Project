@@ -9,4 +9,8 @@ This Arduino project is a small representation of a system that would monitor th
 5. LEDs identify the Occupancy level of the store for the customers attempting to go inside
      Red: Maximum Occupancy (25 Customers) || Yellow: Medium Level Occupancy (13-24 Customers) || Green: Low Occupancy (less than/equal to 12 Customers) 
 
-
+Ultrasonic Distance Sensors: Recognize customers entering or leaving the store
+OLED: Displays the number of occupants in the store and the temperature of incoming customers
+Motor: Represents the unlocking/opening and closing of the store's doors
+LEDs: Displays the Occupancy Level of the store
+Temperature Sensor: Represents checking the temperature of the incoming customers
